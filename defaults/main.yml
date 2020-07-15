@@ -62,6 +62,7 @@ iserver_deb_packages:
   - psmisc           # includes pstree
   - wget
   - curl
+  - nfs-common
   # - lsof
   # - lshw
   # - ncdu
